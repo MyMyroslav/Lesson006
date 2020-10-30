@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson006_Task1", "Lesson006_Task1\Lesson006_Task1.csproj", "{135C0BAB-D0CB-4EAF-831E-EC561B7CF930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson006_Task2", "Lesson006_Task2\Lesson006_Task2.csproj", "{2E92ACD9-115C-4721-B506-6E3A7B8EC505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{135C0BAB-D0CB-4EAF-831E-EC561B7CF930}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{135C0BAB-D0CB-4EAF-831E-EC561B7CF930}.Debug|anycpu.Build.0 = Debug|anycpu
+		{135C0BAB-D0CB-4EAF-831E-EC561B7CF930}.Release|anycpu.ActiveCfg = Release|anycpu
+		{135C0BAB-D0CB-4EAF-831E-EC561B7CF930}.Release|anycpu.Build.0 = Release|anycpu
+		{2E92ACD9-115C-4721-B506-6E3A7B8EC505}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2E92ACD9-115C-4721-B506-6E3A7B8EC505}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2E92ACD9-115C-4721-B506-6E3A7B8EC505}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2E92ACD9-115C-4721-B506-6E3A7B8EC505}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
